@@ -1,1 +1,2 @@
-# Evaluciaon-n3
+El astronauta perdido Luchopai aterrizo su nave en un planeta totalmente perdido de la galaxia loganix,
+al salir de la nave se encuentra con terrores desconocidos, ayuda a Luchopai a superar el laberinto pra que se pueda salvar.
